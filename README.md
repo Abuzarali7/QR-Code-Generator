@@ -5,9 +5,6 @@ A sleek and responsive **QR Code Generator** built with **HTML, CSS, and JavaScr
 
 ---
 
-## 🔍 Preview
-
-🎯 [Live Demo](https://yourusername.github.io/qr-code-generator/)  
 📦 Lightweight • 📱 Mobile-Friendly • ⚡ Fast & Instant QR Code Generation
 
 ---
